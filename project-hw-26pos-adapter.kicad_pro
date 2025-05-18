@@ -58,7 +58,25 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "missing_courtyard|38000000|35500000|607dd1ab-18b7-4eeb-ab70-2a1c81867553|00000000-0000-0000-0000-000000000000",
+        "silk_edge_clearance|32000000|34086243|28844099-7951-4e77-9890-8ce1ec14f627|4a7d02a4-b68c-4ff5-ad18-dba088def0cf",
+        "silk_edge_clearance|32000000|37317426|28844099-7951-4e77-9890-8ce1ec14f627|d1f98cfd-870f-4cd3-89b0-09c29da49e2f",
+        "silk_over_copper|32689109|30509406|d1f98cfd-870f-4cd3-89b0-09c29da49e2f|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|42930000|35610000|37fdbe8a-fd2d-49db-95b7-f928d6f5ef7c|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|42930000|40690000|17e8dd27-7562-454f-86b3-f0691662fdbf|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|44263642|36141331|6e9f4d5d-1384-409a-bb6d-7bec9117b1b2|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|44904418|41476621|678a808e-88ee-4fd4-8ba8-546dbb607ccc|00000000-0000-0000-0000-000000000000",
+        "silk_overlap|34450000|39595000|d1f98cfd-870f-4cd3-89b0-09c29da49e2f|9d262e78-854a-4dbf-8938-dd2aa8c33138",
+        "silk_overlap|34450000|41866076|9d262e78-854a-4dbf-8938-dd2aa8c33138|86130ad6-ae4d-4082-88b6-d1e778cf48ab",
+        "silk_overlap|34827033|39595000|d1f98cfd-870f-4cd3-89b0-09c29da49e2f|fc0740fe-5078-49ea-af39-b888237bf62d",
+        "silk_overlap|36675000|30200000|824e35c8-46e2-4cf0-a9f5-45614a3fcc5a|d1f98cfd-870f-4cd3-89b0-09c29da49e2f",
+        "silk_overlap|36675000|31000000|6ee5a1e9-ca47-4aca-b1e6-6b0373b71221|d1f98cfd-870f-4cd3-89b0-09c29da49e2f",
+        "silk_overlap|37045504|39595000|fc0740fe-5078-49ea-af39-b888237bf62d|86130ad6-ae4d-4082-88b6-d1e778cf48ab",
+        "silk_overlap|39550000|41268660|678a808e-88ee-4fd4-8ba8-546dbb607ccc|0b4acb0d-d8f4-44e2-a08b-6d06c542aa9b",
+        "silk_overlap|44507941|41946511|678a808e-88ee-4fd4-8ba8-546dbb607ccc|05038f5d-24e3-4b68-8317-d1f36dd553a2",
+        "silk_overlap|44510000|34332000|92dfefeb-1596-4eda-afbe-1e50a659dce4|6e9f4d5d-1384-409a-bb6d-7bec9117b1b2"
+      ],
       "meta": {
         "version": 2
       },
@@ -118,7 +136,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.2,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,

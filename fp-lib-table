@@ -3,4 +3,5 @@
   (lib (name "CNCTECH_3220-26-0300-00")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/CNCTECH_3220-26-0300-00")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)")(options "")(descr ""))
   (lib (name "pink_panda")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/pink_panda/pink_panda.pretty")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/logos")(options "")(descr ""))
 )
