@@ -2532,7 +2532,7 @@
 	(footprint "logos:octopus_15mm"
 		(layer "F.Cu")
 		(uuid "607dd1ab-18b7-4eeb-ab70-2a1c81867553")
-		(at 38 35.5)
+		(at 38.25 35.5)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
